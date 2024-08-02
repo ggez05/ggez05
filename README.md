@@ -24,12 +24,14 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, o
 
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="TailWind" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> 
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="left" alt="MongoDb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /> 
 <img align="left" alt="FireBase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -40,29 +42,4 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, o
 <img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="ApacheKafka" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
 
-#
-## 🌟 **Experience:**
-
-### Junior Engineer at Booky.ca
-- Collaborated on ongoing and new projects.
-- Worked with CSS, JavaScript, Node.js, and Amazon Web Services (AWS).
-- Implemented serverless frameworks using AWS Lambda functions and API Gateway.
-- Explored AWS services like SNS, EventBridge, SES, and Route 53 DNS.
-- Built serverless application frameworks and SMS reminders.
-- Experience with Cognito for user base setup and authentication.
-
-### Full Stack Developer at Anchors.in
-- Created a platform for creators to monetize their skills.
-- Developed new features and maintained the website using MERN stack and AWS.
-- Brainstormed innovative ideas to enhance user experience.
-- [View my certificate](https://drive.google.com/file/d/1GUar_2HpILVNU6EJSIIfS7K6XYuvHQVD/view?usp=drive_li)
-
-#
-![Certified Badge](https://www.credly.com/badges/bbf11890-485f-4cf6-9805-4de34a285ecb/public_url)
-
-## Let's Connect! 🤝
-Feel free to explore my repositories, contribute, and reach out. Let's build something amazing together! 🌟
-
-Thanks for stopping by! Happy coding! 🚀✨
