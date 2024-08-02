@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Garvit Bhatia, an Innovative Full-Stack Developer 🚀
 
-Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, optimizing performance, and creating delightful user experiences. With over 1.5 years of hands-on experience, I've honed my skills across various technologies and platforms.
+Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, optimizing performance, and creating delightful user experiences. With over 2 years of hands-on experience, I've honed my skills across various technologies and platforms.
 
 ## What Sets Me Apart:
 
