@@ -54,13 +54,11 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, o
 - Developed new features and maintained the website using MERN stack and AWS.
 - Brainstormed innovative ideas to enhance user experience.
 - [View my certificate](https://drive.google.com/file/d/1GUar_2HpILVNU6EJSIIfS7K6XYuvHQVD/view?usp=drive_li)
-- ![Certified Badge](https://www.credly.com/badges/bbf11890-485f-4cf6-9805-4de34a285ecb/public_url)
+
+#
+![Certified Badge](https://www.credly.com/badges/bbf11890-485f-4cf6-9805-4de34a285ecb/public_url)
 
 ## Let's Connect! 🤝
 Feel free to explore my repositories, contribute, and reach out. Let's build something amazing together! 🌟
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://your-portfolio.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-handle)
 
 Thanks for stopping by! Happy coding! 🚀✨
